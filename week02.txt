@@ -1,0 +1,16 @@
+week02
+
+- linux command : ls ls -al pwd, cd ,git, 
+
+- git command : git init, git add, 
+git commit - -m "v1"
+git config, 
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+git log 
+commit b98daea1849fbea5642a365d4126b9c8bd9903f2 (HEAD -> master)
+Author: plk <tmdduq329@gmail.com>
+Date:   Mon Sep 4 10:58:46 2023 +0900
+
+    v1
