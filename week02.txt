@@ -14,5 +14,5 @@ Author: plk <tmdduq329@gmail.com>
 Date:   Mon Sep 4 10:58:46 2023 +0900
 
   git checkout hashcode
- git checkout - 
+ git checkout - (이전으로 돌아가기)
 
